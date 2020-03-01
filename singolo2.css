@@ -143,8 +143,9 @@ button:hover {
 }
 .media-img {
   cursor: pointer;
+  transition: ease-in-out 1s;
 }
 .media-img:hover{
   transform: scale(0.5);
-  transition: all 1s ease-out;
+  transition: ease-in-out 1s;
 }
