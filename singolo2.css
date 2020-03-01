@@ -1,6 +1,9 @@
+.wrapper {
+  margin: 0 auto;
+  max-width: 1020px;
+}
 body {
   margin:0;
-  max-width: 1020px;
 }
 .container {
   margin-left: 40px;
